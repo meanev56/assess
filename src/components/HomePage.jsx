@@ -1,128 +1,44 @@
 import React from 'react'
 import NavbarMenu from '../sections/NavbarMenu'
+import Header from '../sections/home/Header'
 
 const HomePage = () => {
   return (
     <div>
       <NavbarMenu />
-      <div className="style__KPIBannerContainer-sc-2a5839c1-0 jdZcjQ">
-  <div className="style__FullWidthContainer-sc-2a5839c1-1 huYVK css-0">
-    <div className="style__StyledContainer-sc-2a5839c1-2 imMgqj css-0">
-      <div className="style__SubscribeBannerContainer-sc-2a5839c1-7 jxSbiB css-0">
-        <div className="style__SubscribeForm-sc-2a5839c1-8 iIHzBj">
-          <h1
-            className="dist__StyledText-sc-630f0a6f-12 bdywXm style__CtaHeader-sc-2a5839c1-10 knpxgB"
-            fontWeight="bold"
-          >
-            Become smarter in just 5 minutes
-          </h1>
-          <p className="dist__StyledText-sc-630f0a6f-12 dOpeuC style__StyledText-sc-2a5839c1-11 jhMjHF">
-            Get the daily email that makes reading the news enjoyable. Stay
-            informed and entertained, for free.
-          </p>
-          <form className="dist__BaseForm-1-sc-630f0a6f-30 dist__StyledSquaredForm-1-sc-630f0a6f-38 hwjhDI kklAbF style__StyledInputWithAction-sc-2a5839c1-9 juSsIh">
-            <input
-              placeholder="youremail@domain.com"
-              type="email"
-              name="email"
-              className="dist__BaseInput-sc-630f0a6f-27 dist__StyledInput-sc-630f0a6f-28 dist__StyledSquaredInput-1-sc-630f0a6f-39 iqqrLh ddGvFv jDJMSE"
-              defaultValue=""
-            />
-            <button type="submit" className="chakra-button css-u5fi7s">
-              Subscribe
-            </button>
-          </form>
+      <div className="relative flex min-h-screen flex-row overflow-hidden bg-gray-50 py-6 sm:py-12">
+        <div className="absolute top-[10px] h-[400px] bg-blue-600 ">
+            <div className='left-[20px]'>
+                <p className="left-[20px] top-[20px] relative text-[50px] font-bold text-white">Become smarter in just 5 minutes</p>
+                <p className='text-white left-[20px] relative top-[40px]'>Get the daily email that makes reading the news enjoyable. Stay informed and entertained, for free.</p>
+            </div>
+        <div>
+      <form className='top-[80px] relative'>
+        <label for="default-search" className="relative sr-only mb-2 text-sm font-medium text-gray-900 dark:text-white">Search</label>
+        <div className="relative">
+          <div className="pointer-events-none absolute inset-y-0 start-0 flex items-center ps-3">
+            <svg className="h-4 w-4 text-gray-500 dark:text-gray-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z" />
+            </svg>
+          </div>
+          <input type="search" id="default-search" className="block w-full rounded-lg border border-gray-300 bg-gray-50 p-4 ps-10 text-sm text-gray-900 focus:border-blue-500 focus:ring-blue-500 dark:border-gray-600 dark:bg-gray-700 dark:text-white dark:placeholder-gray-400 dark:focus:border-blue-500 dark:focus:ring-blue-500" placeholder="youremail@domain.com" required />
         </div>
-      </div>
+        <button type="submit" className="absolute bottom-2.5 end-2.5 rounded-lg bg-blue-700 px-4 py-2 text-sm font-medium text-white hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Subscribe</button>
+      </form>
     </div>
   </div>
-  <div className="css-1qwj5yi">
-    <a
-      className="chakra-link css-1j8oszi"
-      href="https://www.youtube.com/watch?v=33BbDZTpbrk"
-    >
-      <div className="style__SpotlightImage-sc-11272830-1 eiCAYT css-0">
-        <span
-          style={{
-            boxSizing: "border-box",
-            display: "block",
-            overflow: "hidden",
-            width: "initial",
-            height: "initial",
-            background: "none",
-            opacity: 1,
-            border: 0,
-            margin: 0,
-            padding: 0,
-            position: "relative"
-          }}
-        >
-          <span
-            style={{
-              boxSizing: "border-box",
-              display: "block",
-              width: "initial",
-              height: "initial",
-              background: "none",
-              opacity: 1,
-              border: 0,
-              margin: 0,
-              padding: "52.1429% 0px 0px"
-            }}
-          ></span>
-          <img
-            alt='Bossy podcast hosts surrounding "Therapist vs. Executive Coach?!" text'
-            src="https://cdn.sanity.io/images/bl383u0v/production/89c5baf11a6a85e961321b4c4e539af947f135aa-1280x720.png?rect=0,24,1280,670&w=420&h=220&q=80&fit=crop&auto=format"
-            decoding="async"
-            data-nimg="responsive"
-            style={{
-              position: "absolute",
-              inset: 0,
-              boxSizing: "border-box",
-              padding: 0,
-              border: "none",
-              margin: "auto",
-              display: "block",
-              width: 0,
-              height: 0,
-              minWidth: "100%",
-              maxWidth: "100%",
-              minHeight: "100%",
-              maxHeight: "100%",
-              objectFit: "cover"
-            }}
-          />
-        </span>
-      </div>
-      <p
-        className="dist__StyledText-sc-630f0a6f-12 bhMDEK style__SpotlightTagLine-sc-11272830-2 iERVoj"
-        fontWeight="medium"
-      >
-        Bossy
-      </p>
-      <p
-        className="dist__StyledText-sc-630f0a6f-12 hVVQdP style__SpotlightTitle-sc-11272830-3 cSAGwA"
-        fontWeight="medium"
-      >
-        Therapists, Coaches, and Masterminds: Building Your Personal Support
-        Team
-      </p>
-      <p
-        className="dist__StyledText-sc-630f0a6f-12 bSTuQa style__SpotlightDetails-sc-11272830-4 enGwAp"
-        fontWeight="regular"
-      >
-        Today, Tara &amp; Katie debate the age-old question: Do I need a
-        therapist...or an executive coach?
-      </p>
-      <div className="style__SpotlightSponsor-sc-11272830-5 cBQIlA">
-        <p
-          className="dist__StyledText-sc-630f0a6f-12 gyYyqC"
-          fontWeight="bold"
-        ></p>
-      </div>
-    </a>
+
+  <div className="relative left-[400px] flex-col">
+    <img src="" />
+    <p>Bossy</p>
+    <p>Therapists, Coaches, and Masterminds: Building Your Personal Support Team</p>
+    <p>Today, Tara &amp; Katie debate the age-old question: Do I need a
+        therapist...or an executive coach?</p>
   </div>
 </div>
+
+      
+<Header />
 
 </div>
   )

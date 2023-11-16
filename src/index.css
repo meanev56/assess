@@ -1,3 +1,174 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+    --colors-mb-blue: #1C7FF2;
+    --colors-primary: #1C7FF2;
+    --colors-white: #FFFFFF;
+    --colors-black: black;
+    --colors-tertiary: #f0b041;
+    --colors-tertiaryDark: #d48d11;
+    --colors-primaryLight: #0d72e7;
+    --colors-primaryContrast: #114a8c;
+    --colors-danger: #e80000;
+    --colors-periwinkleGray: #E9EBF7;
+    --colors-snow: #f5f8fc;
+    --colors-geyser: #dee2e6;
+    --colors-slate: #8898aa;
+    --colors-charcoal: #72808F;
+    --colors-onyx: #3F3F3F;
+    --colors-jet: #282828;
+    --colors-success: #00C851;
+    --colors-warning: #ffbb33;
+    --colors-error: #ff4444;
+    --colors-diamond: #bde1ff;
+    --colors-lavender: #e5eafb;
+    --colors-royalBlue: #315be7;
+    --colors-americanBlue: #2a3b74;
+    --colors-yankeeBlue: #18153c;
+    --colors-green: #14aa40;
+    --colors-greenCyan: #009b63;
+    --colors-alienArmpit: #6ee107;
+    --colors-pineGreen: #077868;
+    --colors-msuGreen: #18423c;
+    --colors-lightGray: #d4d4d4;
+    --colors-yellowOrange: #f8ad3b;
+    --colors-copper: #b8823e;
+    --colors-pink: #fed7d7;
+    --colors-brightGray: #e3e8ee;
+    --nav-height: 70px;
+    --font-heading: Poppins,-apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;
+    --font-body: -apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neue',sans-serif;
+    --font-code: source-code-pro,Menlo,Monaco,Consolas,'Courier New',monospace;
+    --font-weight-light: 300;
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-bold: 600;
+    --font-weight-black: 700;
+    --box-shadow-primary: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+    --box-shadow-focus: 0 0 0 0.2rem rgba(62,146,244,0.5);
+    --box-shadow-hover: 0 0 0 4px rgba(28,127,242,0.4);
+    --box-shadow-navigation: 0 2px 12px 0 rgb(36 50 66 / 8%);
+    --box-shadow-dropdown: 0 0.063em 0.313em 0 rgba(0,0,0,.07),0 0.438em 1.063em 0 rgba(0,0,0,.1);
+    --box-shadow-dreamy: 0 1px 2px rgba(0,0,0,0.07),0 2px 4px rgba(0,0,0,0.07),0 4px 8px rgba(0,0,0,0.07),0 8px 16px rgba(0,0,0,0.07),0 16px 32px rgba(0,0,0,0.07),0 32px 64px rgba(0,0,0,0.07);
+}
+
+
+data-styled.g85[id="style__NavigationWrapper-sc-7673406-0"] {
+    content: "bBfunh,"
+}
+
+data-styled.g73[id="style__DisplayOnLargeUp-sc-648aa1a0-1"] {
+    content: "kCiLar,"
+}
+
+data-styled.g66[id="style__NavContainer-sc-125058e8-2"] {
+    content: "dzMLez,"
+}
+
+data-styled.g206[id="style__Container-sc-215432b3-0"] {
+    content: "ilhvPU,"
+}
+
+@media (min-width: 576px) {
+    .iTWzCH {
+        max-width:540px;
+    }
+}
+
+
+@media (min-width: 768px) {
+    .iTWzCH {
+        max-width:720px;
+    }
+}
+
+@media (min-width: 900px) {
+    .iTWzCH {
+        max-width:870px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .iTWzCH {
+        max-width:1050px;
+    }
+}
+
+@media (min-width: 1600px) {
+    .iTWzCH {
+        max-width:1300px;
+    }
+}
+
+data-styled.g6[id="style__Container-sc-6fdcc87e-0"] {
+    content: "iTWzCH,"
+}
+
+
+@media (min-width: 576px) {
+    .cidDlP {
+        max-width:540px;
+    }
+}
+
+
+@media (min-width: 768px) {
+    .cidDlP {
+        max-width:720px;
+    }
+}
+
+
+@media (min-width: 900px) {
+    .cidDlP {
+        max-width:1050px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .cidDlP {
+        max-width:1050px;
+    }
+}
+
+
+@media (min-width: 1600px) {
+    .cidDlP {
+        max-width:1300px;
+    }
+}
+
+data-styled.g67[id="style__NavMenuTopBar-sc-125058e8-3"] {
+    content: "cidDlP,"
+}
+
+
+@media (max-width: 768px) {
+    .hOLYSe {
+        width:250px;
+        height: 35px;
+    }
+}
+
+data-styled.g61[id="style__LogoContainer-sc-1a7bd5c6-0"] {
+    content: "hOLYSe,"
+}
+
+
+.csxJUh > :not(:last-child) {
+    margin-right: 2rem;
+}
+
+@media (max-width: 1200px) {
+    .csxJUh > :not(:last-child) {
+        margin-right:1.25rem;
+    }
+}
+
+
+data-styled.g208[id="style__NavItemContainer-sc-215432b3-2"] {
+    content: "csxJUh,"
+}
+
