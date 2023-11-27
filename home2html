@@ -334,6 +334,7 @@
                                 <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
                                  
                                     <img alt="Morning Brew Logo" sizes="100vw" srcSet="/_next/image?url=%2Fimages%2Fmorning-brew-logo-dark.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fimages%2Fmorning-brew-logo-dark.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fimages%2Fmorning-brew-logo-dark.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fimages%2Fmorning-brew-logo-dark.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fimages%2Fmorning-brew-logo-dark.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fimages%2Fmorning-brew-logo-dark.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fimages%2Fmorning-brew-logo-dark.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fimages%2Fmorning-brew-logo-dark.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fimages%2Fmorning-brew-logo-dark.png&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain;object-position:left"/>
+                               
                                 </span>
                             </div>
                         </a>
@@ -349,6 +350,9 @@
         <main class="style__MainWrapper-sc-7673406-1 jJkycH">
             <div class="style__Container-sc-6fdcc87e-0 iTWzCH">
                 <div class="style__FullViewportWidthContainer-sc-6fdcc87e-1 beAldL">
+
+
+                    
                     <div data-slug="daily" data-vertical="daily" class="style__BookmarkletData-sc-fd7e820f-1 hVwikm"></div>
                     <div class="style__KPIBannerContainer-sc-2a5839c1-0 jdZcjQ">
                         <div class="style__FullWidthContainer-sc-2a5839c1-1 huYVK css-0">
@@ -359,7 +363,10 @@
                                         <p class="dist__StyledText-sc-630f0a6f-12 dOpeuC style__StyledText-sc-2a5839c1-11 jhMjHF">Get the daily email that makes reading the news enjoyable. Stay informed and entertained, for free.</p>
                                         <form class="dist__BaseForm-1-sc-630f0a6f-30 dist__StyledSquaredForm-1-sc-630f0a6f-38 hwjhDI kklAbF style__StyledInputWithAction-sc-2a5839c1-9 juSsIh">
                                             <input type="email" placeholder="youremail@domain.com" name="email" class="dist__BaseInput-sc-630f0a6f-27 dist__StyledInput-sc-630f0a6f-28 dist__StyledSquaredInput-1-sc-630f0a6f-39 iqqrLh ddGvFv jDJMSE"/>
-                                            <style data-emotion="css u5fi7s">
+
+
+
+                                                <style data-emotion="css u5fi7s">
                                                 .css-u5fi7s {
                                                     display: -webkit-inline-box;
                                                     display: -webkit-inline-flex;
@@ -457,8 +464,10 @@
                                     <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative">
                                         <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;padding-top:52.142857142857146%"></span>
                                         <img alt="4 stacks of hundred dollar bills standing vertically with smoke coming out of the tops like smoke stacks" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="responsive" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/>
+                                    
                                         <noscript>
                                             <img alt="4 stacks of hundred dollar bills standing vertically with smoke coming out of the tops like smoke stacks" src="https://cdn.sanity.io/images/bl383u0v/production/d53b5234a3c1fd09a4097558d2740f0baec50820-1500x1000.jpg?rect=0,107,1500,786&amp;w=420&amp;h=220&amp;q=80&amp;fit=crop&amp;auto=format" decoding="async" data-nimg="responsive" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover" loading="lazy"/>
+                                    
                                         </noscript>
                                     </span>
                                 </div>
@@ -496,6 +505,8 @@
                     <a class="chakra-link css-10qsrqw" href="/daily/issues/latest">
                         <div class="style__FullViewportWidthContainer-sc-6fdcc87e-1 style__LatestIssuesContainer-sc-3420d880-0 beAldL gTohMX">
                             <style data-emotion="css 16t85jb">
+                                
+                                
                                 .css-16t85jb {
                                     display: -webkit-box;
                                     display: -webkit-flex;
@@ -523,6 +534,10 @@
                                     }
                                 }
                             </style>
+
+
+
+
                             <div class="css-16t85jb">
                                 <style data-emotion="css hbu7g5">
                                     .css-hbu7g5 {
@@ -565,6 +580,9 @@
                                     <h1 class="dist__StyledText-sc-630f0a6f-12 kHMoXM" font-weight="black">LATEST NEWSLETTER:</h1>
                                 </div>
                                 <style data-emotion="css 1vkgzhu">
+
+
+
                                     .css-1vkgzhu {
                                         display: -webkit-box;
                                         display: -webkit-flex;
@@ -575,6 +593,10 @@
                                         flex-direction: column;
                                         line-height: var(--chakra-lineHeights-10);
                                     }
+
+
+
+
                                 </style>
                                 <div class="css-1vkgzhu">
                                     <h6 class="dist__StyledText-sc-630f0a6f-12 bfhpGW" font-weight="medium">How much climate change costs the US...</h6>
@@ -608,6 +630,8 @@
                                 <div class="css-0">
                                     <article class="style__SmallToutArticle-sc-17ce5760-0 jpUaem">
                                         <a href="/daily/stories/bankers-smaller-bonuses-for-second-year-in-a-row" class="css-0">
+
+
                                             <div direction="imageRight" class="style__Body-sc-17ce5760-3 fANYDf">
                                                 <div direction="imageRight" class="style__BodyDetails-sc-17ce5760-8 fRwMqG">
                                                     <p class="dist__StyledText-sc-630f0a6f-12 bUBhWt style__Tagline-sc-17ce5760-4 kiHkZj" font-weight="medium">Finance</p>
@@ -673,6 +697,9 @@
                                                     <div class="style__ImageWrapper-sc-17ce5760-1 kwDodE">
                                                         <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
                                                             <img alt src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover"/>
+                                                           
+                                                           
+                                                           
                                                             <noscript>
                                                                 <img alt="" sizes="100vw" srcSet="/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2Ff4e512636115a0c3eabc0efc1dde2c72d94351c2-1500x1000.png%3Fq%3D80%26auto%3Dformat&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2Ff4e512636115a0c3eabc0efc1dde2c72d94351c2-1500x1000.png%3Fq%3D80%26auto%3Dformat&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2Ff4e512636115a0c3eabc0efc1dde2c72d94351c2-1500x1000.png%3Fq%3D80%26auto%3Dformat&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2Ff4e512636115a0c3eabc0efc1dde2c72d94351c2-1500x1000.png%3Fq%3D80%26auto%3Dformat&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2Ff4e512636115a0c3eabc0efc1dde2c72d94351c2-1500x1000.png%3Fq%3D80%26auto%3Dformat&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2Ff4e512636115a0c3eabc0efc1dde2c72d94351c2-1500x1000.png%3Fq%3D80%26auto%3Dformat&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2Ff4e512636115a0c3eabc0efc1dde2c72d94351c2-1500x1000.png%3Fq%3D80%26auto%3Dformat&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2Ff4e512636115a0c3eabc0efc1dde2c72d94351c2-1500x1000.png%3Fq%3D80%26auto%3Dformat&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2Ff4e512636115a0c3eabc0efc1dde2c72d94351c2-1500x1000.png%3Fq%3D80%26auto%3Dformat&amp;w=3840&amp;q=75" decoding="async" data-nimg="fill" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover" loading="lazy"/>
                                                             </noscript>
@@ -771,6 +798,11 @@
                                                             <!-- -->
                                                             | 11.14.2023</p>
                                                         </div>
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
                                                         <div class="css-0">
                                                             <div class="style__ImageWrapper-sc-17ce5760-1 kwDodE">
                                                                 <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
@@ -873,6 +905,11 @@
                                 <div class="style__FlexibleGridSection-sc-beacc3b7-0 fuxLfC">
                                     <h4 class="dist__StyledText-sc-630f0a6f-12 cYPolD style__FlexibleGridSectionTitle-sc-beacc3b7-1 eXlzjA" font-weight="bold">Latest Podcast Episodes</h4>
                                     <div class="style__FlexibleGridContent-sc-beacc3b7-2 cBQMKD">
+
+
+
+
+
                                         <a href="https://www.youtube.com/watch?v=WqI5M6wgzcM">
                                             <div class="style__FlexibleGridItem-sc-beacc3b7-3 iTdrub">
                                                 <div class="style__FlexibleGridImage-sc-beacc3b7-4 DvVIQ">
@@ -976,6 +1013,9 @@
                                             }
                                         }
                                     </style>
+
+
+
                                     <p class="chakra-text css-1htrmhk">Morning Brew delivers quick and insightful updates about the business world every day of the week from Wall St. to Silicon Valley.</p>
                                     <div class="style__Socials-sc-cbfd4fe7-2 cAtbWR">
                                         <div class="style__SocialIcon-sc-cbfd4fe7-3 hHVgRq">
@@ -1092,6 +1132,13 @@
                                             }
                                         </style>
                                         <button type="submit" class="chakra-button css-1y1pkfw">Try it</button>
+
+
+
+
+
+
+
                                     </form>
                                 </div>
                             </div>
@@ -1193,6 +1240,11 @@
                                     <a href="https://www.mbdailyshow.com/?utm_medium=website&amp;utm_source=global_footer&amp;utm_campaign=mb" class="styles__FooterLink-sc-68d235a7-10 bsPhry">Morning Brew Daily</a>
                                 </li>
                                 <li class="styles__ColumnItem-sc-68d235a7-9 dYgYOf">
+
+
+
+
+                                    
                                     <a href="https://podcast.moneywithkatie.com/?utm_medium=website&amp;utm_source=global_footer&amp;utm_campaign=mb" class="styles__FooterLink-sc-68d235a7-10 bsPhry">The Money with Katie Show</a>
                                 </li>
                                 <li class="styles__ColumnItem-sc-68d235a7-9 dYgYOf">
