@@ -1,6 +1,8 @@
 import React from 'react'
 import '../styles/home.css'
 import NewsletterForm from '../sections/NewsLetterSubscribe'
+import SumbitFormTop from '../sections/SumbitFormTop'
+import SubmitFormBottom from '../sections/SubmitFormBottom'
 
 const Home = () => {
   return (
@@ -82,18 +84,9 @@ const Home = () => {
                     <div className="style__KPIBannerContainer-sc-2a5839c1-0 jdZcjQ">
                         <div className="style__FullWidthContainer-sc-2a5839c1-1 huYVK css-0">
                             <div className="style__StyledContainer-sc-2a5839c1-2 imMgqj css-0">
-                                <div className="style__SubscribeBannerContainer-sc-2a5839c1-7 jxSbiB css-0">
-                                    <div className="style__SubscribeForm-sc-2a5839c1-8 iIHzBj">
-                                        <h1 className="dist__StyledText-sc-630f0a6f-12 bdywXm style__CtaHeader-sc-2a5839c1-10 knpxgB" font-weight="bold">Become smarter in just 5 minutes</h1>
-                                        <p className="dist__StyledText-sc-630f0a6f-12 dOpeuC style__StyledText-sc-2a5839c1-11 jhMjHF">Get the daily email that makes reading the news enjoyable. Stay informed and entertained, for free.</p>
-                                        <form className="dist__BaseForm-1-sc-630f0a6f-30 dist__StyledSquaredForm-1-sc-630f0a6f-38 hwjhDI kklAbF style__StyledInputWithAction-sc-2a5839c1-9 juSsIh">
-                                            <input type="email" placeholder="youremail@domain.com" name="email" className="dist__BaseInput-sc-630f0a6f-27 dist__StyledInput-sc-630f0a6f-28 dist__StyledSquaredInput-1-sc-630f0a6f-39 iqqrLh ddGvFv jDJMSE"/>
-                                               
-                                                <style data-emotion="css-u5fi7s"/>
-                                                <button type="submit" className="chakra-button css-u5fi7s">Subscribe</button>
-                                        </form>
-                                    </div>
-                                </div>
+                                
+                                <SumbitFormTop />
+                            
                             </div>
                         </div>
                         <style data-emotion="css 1qwj5yi"/>
@@ -528,18 +521,9 @@ const Home = () => {
                         </div>
                         <div className="style__FullViewportWidthContainer-sc-6fdcc87e-1 style__Container-sc-a900d4a8-0 beAldL fUcta">
                             <div className="style__Container-sc-6fdcc87e-0 iTWzCH">
-                                <div className="style__InsetContentContainer-sc-6fdcc87e-2 fbiPrQ">
-                                    <h5 className="dist__StyledText-sc-630f0a6f-12 kDwrNU style__NewsletterHeading-sc-a900d4a8-3 bFldgr">Become smarter in just 5 minutes</h5>
-                                    <div className="style__CtaBody-sc-a900d4a8-1 jVsVkl">
-                                        <p className="dist__StyledText-sc-630f0a6f-12 RXKux">Get the daily email that makes reading the news enjoyable. Stay informed and entertained, for free.</p>
-                                    </div>
-                                    <form className="dist__BaseForm-1-sc-630f0a6f-30 dist__StyledSquaredForm-1-sc-630f0a6f-38 hwjhDI kklAbF style__Form-sc-a900d4a8-2 loZYFA">
-                                        <input type="email" placeholder="Enter Email" name="email" className="dist__BaseInput-sc-630f0a6f-27 dist__StyledInput-sc-630f0a6f-28 dist__StyledSquaredInput-1-sc-630f0a6f-39 iqqrLh ddGvFv jDJMSE"/>
-                                        <style data-emotion="css 1y1pkfw"/>
-                                        <button type="submit" class="chakra-button css-1y1pkfw">Try it</button>
-
-                                        </form>
-                                </div>
+                               
+                                <SubmitFormBottom />
+                            
                             </div>
                         </div>
                     </div>
@@ -548,7 +532,6 @@ const Home = () => {
         </main>
 
         <footer className="style__FooterWrapper-sc-7673406-2 hpEsRi">
-            <NewsletterForm />
             <div className="style__FullViewportWidthContainer-sc-6fdcc87e-1 styles__Container-sc-68d235a7-0 beAldL hhdcUb">
                 <div className="style__Container-sc-6fdcc87e-0 iTWzCH">
                     <div className="styles__ColumnContainer-sc-68d235a7-1 lbZQgv">
